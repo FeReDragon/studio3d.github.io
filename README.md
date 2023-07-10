@@ -1,7 +1,8 @@
 # studio3d.github.io
 
-![img1](/img/1.png)
-![img2](/img/2.png)
-![img3](/img/3.png)
-![img4](/img/4.png)
+<img src="/img/1.png" alt="img1" width="400" height="300">
+<img src="/img/2.png" alt="img2" width="400" height="300">
+<img src="/img/3.png" alt="img3" width="400" height="300">
+<img src="/img/4.png" alt="img4" width="400" height="300">
+
 
